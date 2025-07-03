@@ -3,15 +3,15 @@
 **💼 Billify – Smart Business Billing & Management Web App**
 Billify is a lightweight and user-friendly full-stack web application built to simplify the process of business registration, billing, and management. Designed with MSMEs and solo entrepreneurs in mind, Billify allows users to quickly sign up, manage their business details, and track essential information through a clean, responsive interface.
 
-**🚀 Features
-**🔐 User Authentication
+**🚀 Features**
+🔐 User Authentication
 
 Secure login & registration for users
 
 Role-based flow: Student / Authority (modular for future use)
 
-**🏢 Business Details Management
-**
+**🏢 Business Details Management**
+
 Form to capture business name, industry, address, contact, and other essential details
 
 Frontend validation for clean user experience
@@ -55,6 +55,19 @@ After authentication → Redirects to Billify Dashboard
 User submits their business details → Stored in MongoDB
 
 (Future) Authority dashboard to view/manage submissions
+
+**📌 Future Improvements**
+Admin dashboard for Authorities
+
+PDF invoice generation
+
+Email notifications on submission
+
+Improved security and token-based auth
+
+**🙋‍♂️ Why I Built This**
+
+To create a practical, real-world application that helps small businesses manage their essential data digitally—while also strengthening my own skills in full-stack development, form handling, and database integration.
 
 **workflow of billify in real world: **
 https://www.loom.com/share/a4ae787376ad48b685da8698ea4aca91?sid=a610193b-28ad-445f-8b01-9bc2ad380a32
